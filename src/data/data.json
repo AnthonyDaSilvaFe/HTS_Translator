@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "translationKey": "card.base.challenge",
+      "name": "Challenge",
+      "image": "base_challenge.png",
+      "type": "challenge",
+      "description": "card.base.challenge.description"
+    },
+    {
+      "translationKey": "card.base.hero.bard.dodgy-dealer",
+      "name": "Dodgy Dealer",
+      "image": "base_hero_bard_dodgy-dealer.png",
+      "type": "hero",
+      "class": "bard",
+      "description": "card.base.hero.bard.dodgy-dealer.description"
+    },
+    {
+      "translationKey": "card.base.cursed-item.curse-of-the-snakes-eyes",
+      "name": "Curse of the Snake's Eyes",
+      "image": "base_cursed-item_curse-of-the-snakes-eyes.png",
+      "type": "cursed-item",
+      "description": "card.base.cursed-item.curse-of-the-snakes-eyes.description"
+    },
+    {
+      "translationKey": "card.base.item.bard-mask",
+      "name": "Bard Mask",
+      "image": "base_item_bard-mask.png",
+      "type": "item",
+      "description": "card.base.item.bard-mask.description"
+    },
+    {
+      "translationKey": "card.base.magic.call-to-the-fallen",
+      "name": "Call to the Fallen",
+      "image": "base_magic_call-to-the-fallen.png",
+      "type": "magic",
+      "description": "card.base.magic.call-to-the-fallen.description"
+    },
+    {
+      "translationKey": "card.base.modifier.minus4",
+      "name": "Modifier",
+      "image": "base_modifier_minus4.png",
+      "type": "modifier",
+      "description": "card.base.modifier.minus4.description"
+    },
+    {
+      "translationKey": "card.base.monster.abyss-queen",
+      "name": "Abyss Queen",
+      "image": "base_monster_abyss-queen.png",
+      "type": "monster",
+      "description": "card.base.monster.abyss-queen.description"
+    },
+    {
+      "translationKey": "card.base.party-leader-bard.the-charismatic-song",
+      "name": "The Charismatic Song",
+      "image": "base_party-leader-bard_the-charismatic-song.png",
+      "type": "party-leader",
+      "description": "card.base.party-leader-bard.the-charismatic-song.description"
+    }
+  ]
+}

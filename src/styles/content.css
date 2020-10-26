@@ -1,0 +1,25 @@
+.content {
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  background-color: #131925;
+}
+
+.content a:hover {
+  text-decoration: none;
+}
+
+.langSelect {
+  float: right;
+  margin: 5px;
+  width: 120px;
+  font-size: 15px;
+}
+
+.langSelect input {
+  height: 15px;
+}
+
+.minHeight-100vh {
+  min-height: 100vh;
+}

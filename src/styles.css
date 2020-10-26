@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Charter";
+  src: url("./fonts/Charter.ttc");
+}
+
+body {
+  background-color: #7ca6b8;
+  width: 100%;
+  max-width: 1000px;
+  height: 100%;
+  margin: auto;
+}
+
+body,
+#root,
+.content {
+  min-height: 100vh;
+}
+
+.App {
+  height: auto;
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+}
